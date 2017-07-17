@@ -3,11 +3,11 @@ Author: Cordell hurst
 Course: CSCI 293
 Instructor: Dr. Musab Yasin
 Assignment: Final Project
-Date: 7/17/2017
+Date: 07/17/2017
 
-This program demonstrates the use of lambdas and streams available in Java 8.
+This progam demonstrates the use of lambdas and streams available in Java 8.
 */
-package invoice;//MAY HAVE NOT RUN IF ATTEMPTED TO RUN AS .JAVA. MAY NEED TO COMMENT OUT THIS LINE IN BOTH FILES
+package invoice;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -25,9 +25,9 @@ public class InvoiceDriver
             new Invoice(7, "Sledge hammer", 11, 21.50),
             new Invoice(77, "Hammer", 76, 11.99),
             new Invoice(39, "Lawn mower", 3, 79.50),
-            new Invoice(68, "Screwdriver" ,106, 6.99),
+            new Invoice(68, "Screwdriver", 106, 6.99),
             new Invoice(56, "Jig saw", 21 ,11.00),
-            new Invoice(3, "Wrench" ,34, 7.50)};
+            new Invoice(3, "Wrench", 34, 7.50)};
         
         List<Invoice> InvoiceList = Arrays.asList(invoiceArr);
         

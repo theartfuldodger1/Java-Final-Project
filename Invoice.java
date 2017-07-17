@@ -3,12 +3,12 @@ Author: Cordell hurst
 Course: CSCI 293
 Instructor: Dr. Musab Yasin
 Assignment: Final Project
-Date: 7/17/2017
+Date: 07/17/2017
 
-This program defines the Invoice class in order to demonstrate the use of lambdas 
+This progam defines the Invoice class in order to demonstrate the use of lambdas 
 and streams available in Java 8.
 */
-package invoice;//MAY HAVE NOT RUN IF ATTEMPTED TO RUN AS .JAVA. MAY NEED TO COMMENT OUT THIS LINE IN BOTH FILES
+package invoice;
 
 public class Invoice 
 {
